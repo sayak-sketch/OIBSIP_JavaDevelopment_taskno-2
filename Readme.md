@@ -1,6 +1,6 @@
 # TASK 2
-#Number Guessing Game 
-#Created under the internship of OASIS INFOBYTE by SAYAK MUKHERJEE.
+# Number Guessing Game 
+# Created under the internship of OASIS INFOBYTE by SAYAK MUKHERJEE.
 A simple yet engaging console-based Number Guessing Game implemented in Java. The game challenges players to guess a secret number within a given range, providing hints along the way.
 
 Game Overview
@@ -46,17 +46,16 @@ Steps to Run
 Clone or Download the Repository:
 If using Git:
 
-Bash
-
+Bash:
 git clone https://github.com/sayak-sketch/-OIBSIP_JavaDevelopment_taskno-2.git
 cd number-guessing-game
+
 Alternatively, you can download the .zip file and extract it.
 
 Navigate to the Project Directory:
 Open your terminal or command prompt and navigate to the directory where you saved NumberGuessingGame.java.
 
-Bash
-
+Bash:
 cd path/to/NumberGuessingGame
 (Replace path/to/NumberGuessingGame with the actual path)
 
@@ -65,21 +64,22 @@ Use the Java compiler (javac) to compile the source file. If you compiled with a
 
 Bash
 
-# For modern Java versions (recommended if your JRE matches your JDK)
+### For modern Java versions (recommended if your JRE matches your JDK)
 javac NumberGuessingGame.java
 
-# If you need to compile for compatibility with an older JRE (e.g., Java 8)
-# Make sure your current JDK is capable of targeting Java 8 (e.g., JDK 8 or newer)
+### If you need to compile for compatibility with an older JRE (e.g., Java 8)
+### Make sure your current JDK is capable of targeting Java 8 (e.g., JDK 8 or newer)
 javac -source 8 -target 8 NumberGuessingGame.java
-Run the Game:
+
+# Run the Game:
+
 Execute the compiled Java class file:
 
-Bash
-
+Bash:
 java NumberGuessingGame
 
 
-Configuration:
+## Configuration:
 You can easily modify game parameters by changing the final int constants in the NumberGuessingGame.java file:
 
 maxAttempts: Defines the maximum number of guesses allowed per round.
