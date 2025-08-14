@@ -47,7 +47,9 @@ Clone or Download the Repository:
 If using Git:
 
 Bash:
+
 git clone https://github.com/sayak-sketch/-OIBSIP_JavaDevelopment_taskno-2.git
+
 cd number-guessing-game
 
 Alternatively, you can download the .zip file and extract it.
@@ -56,7 +58,9 @@ Navigate to the Project Directory:
 Open your terminal or command prompt and navigate to the directory where you saved NumberGuessingGame.java.
 
 Bash:
+
 cd path/to/NumberGuessingGame
+
 (Replace path/to/NumberGuessingGame with the actual path)
 
 Compile the Java Code:
@@ -76,6 +80,7 @@ javac -source 8 -target 8 NumberGuessingGame.java
 Execute the compiled Java class file:
 
 Bash:
+
 java NumberGuessingGame
 
 
