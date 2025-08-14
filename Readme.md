@@ -48,7 +48,7 @@ If using Git:
 
 Bash:
 
-git clone https://github.com/sayak-sketch/-OIBSIP_JavaDevelopment_taskno-2.git
+git clone https://github.com/sayak-sketch/OIBSIP_JavaDevelopment_taskno-2.git
 
 cd number-guessing-game
 
