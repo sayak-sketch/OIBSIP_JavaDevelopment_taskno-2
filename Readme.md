@@ -1,5 +1,6 @@
-TASK 2
-Number Guessing Game, Created under the internship of OASIS INFOBYTE by SAYAK MUKHERJEE.
+# TASK 2
+#Number Guessing Game 
+#Created under the internship of OASIS INFOBYTE by SAYAK MUKHERJEE.
 A simple yet engaging console-based Number Guessing Game implemented in Java. The game challenges players to guess a secret number within a given range, providing hints along the way.
 
 Game Overview
