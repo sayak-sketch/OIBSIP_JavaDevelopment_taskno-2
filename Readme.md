@@ -52,6 +52,10 @@ git clone https://github.com/sayak-sketch/OIBSIP_JavaDevelopment_taskno-2.git
 
 cd number-guessing-game
 
+if that does not work then use 
+
+cd OIBSIP_JavaDevelopment_taskno-2-master
+
 Alternatively, you can download the .zip file and extract it.
 
 Navigate to the Project Directory:
@@ -62,6 +66,10 @@ Bash:
 cd path/to/NumberGuessingGame
 
 (Replace path/to/NumberGuessingGame with the actual path)
+
+If that does not work use 
+
+cd OIBSIP_JavaDevelopment_taskno-2-master
 
 Compile the Java Code:
 Use the Java compiler (javac) to compile the source file. If you compiled with a newer JDK and are running on an older JRE, you might need to specify the target version:
